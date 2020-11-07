@@ -1,0 +1,38 @@
+#content {
+    padding: 5%;
+    font-size: 1.5em;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    line-height: 200%;
+}
+
+#content span {
+    font-weight: bold;
+    background-color: #6e5c0b17;
+    padding: 0.1em 0.7em;
+    border-radius: 0.2em;
+}
+
+#content img {
+    width: 50%;
+    margin: 1em;
+    padding: 0px;
+    border: .3em solid black;
+    border-radius: 2em;
+}
+
+#content .term {
+    font-weight: bolder;
+    font-size: 1.6em;
+    background-color: #4dc71450;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#header-img {
+    text-align: center;
+}
+
+#header-img img {
+    border: 0.4em solid black;
+    padding: .3em 1em;
+    border-radius: 2em;
+}
